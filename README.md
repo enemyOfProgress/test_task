@@ -1,5 +1,7 @@
 # test_task
-Before you run the project, please go to main directory: test_task and setup requirements.
-To setup requirements use consle: pip install -r requirements.txt
-
-The main file for test is test_vacancies_page. You can run it by pycharm or console, for console use: pytest test_vacancies_page.py
+How to run the project:
+1. Go to console and select directory
+2. Git clone the project
+3. Go to main directory: cd test_task
+4. Install requirements: pip install -r requirements.txt
+5. For run test stay in main directroy and use: pytest test_vacancies_page.py or run it from pycharm
